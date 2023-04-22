@@ -8,7 +8,7 @@ export const Homepage = () => {
       <div className="flex justify-center flex-wrap other:justify-evenly ">
         <div className="max-w-2xl mx-20 my-5">
           <div className="bg-white shadow-md border-4 border-gray-200 rounded-lg max-w-lg dark:bg-gray-800 dark:border-gray-700">
-            <a href="https://ecommerece-website-codefair-noizy.netlify.app" target="_blank">
+            <a href="https://ecommerece-website-codefair-noizy.netlify.app" target="_blank" rel="noreferrer" >
               <img
                 className="rounded-t-lg"
                 src={Img1}
@@ -16,7 +16,7 @@ export const Homepage = () => {
               />
             </a>
             <div className="p-5">
-              <a href="https://ecommerece-website-codefair-noizy.netlify.app" target="_blank">
+              <a href="https://ecommerece-website-codefair-noizy.netlify.app" target="_blank" rel="noreferrer" >
                 <h5 className="text-gray-900 font-bold text-2xl tracking-tight mb-2 dark:text-white">
                   e-Commerce Website - CodeFair
                 </h5>
@@ -33,7 +33,7 @@ export const Homepage = () => {
 
               </div>
               <a
-                href="https://ecommerece-website-codefair-noizy.netlify.app" target="_blank"
+                href="https://ecommerece-website-codefair-noizy.netlify.app" target="_blank" rel="noreferrer"
                 className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-3 py-2 text-center inline-flex items-center  dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
               >
                 Visit this now
@@ -57,7 +57,7 @@ export const Homepage = () => {
 
         <div className="max-w-2xl mx-20 my-5">
           <div className="bg-white shadow-md border-4 border-gray-200 rounded-lg max-w-lg dark:bg-gray-800 dark:border-gray-700">
-            <a href="https://dhamaka-movies-noizy.netlify.app/" target="_blank">
+            <a href="https://dhamaka-movies-noizy.netlify.app/" target="_blank" rel="noreferrer">
               <img
                 className="rounded-t-lg"
                 src={Img2}
@@ -65,7 +65,7 @@ export const Homepage = () => {
               />
             </a>
             <div className="p-5">
-              <a href="https://dhamaka-movies-noizy.netlify.app/" target="_blank">
+              <a href="https://dhamaka-movies-noizy.netlify.app/" target="_blank" rel="noreferrer">
                 <h5 className="text-gray-900 font-bold text-2xl tracking-tight mb-2 dark:text-white">
                   Dhamaka Movies
                 </h5>
@@ -81,7 +81,7 @@ export const Homepage = () => {
 
               </div>
               <a
-                href="https://dhamaka-movies-noizy.netlify.app/" target="_blank"
+                href="https://dhamaka-movies-noizy.netlify.app/" target="_blank" rel="noreferrer"
                 className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-3 py-2 text-center inline-flex items-center  dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
               >
                 Visit this now
@@ -107,7 +107,7 @@ export const Homepage = () => {
       <div className="flex justify-center flex-wrap other:justify-evenly ">
         <div className="max-w-2xl mx-20 my-5">
           <div className="bg-white shadow-md border-4 border-gray-200 rounded-lg max-w-lg dark:bg-gray-800 dark:border-gray-700">
-            <a href="https://ecommerece-website-codefair-noizy.netlify.app" target="_blank">
+            <a href="https://ecommerece-website-codefair-noizy.netlify.app" target="_blank" rel="noreferrer">
               <img
                 className="rounded-t-lg"
                 src={Img1}
@@ -115,7 +115,7 @@ export const Homepage = () => {
               />
             </a>
             <div className="p-5">
-              <a href="https://ecommerece-website-codefair-noizy.netlify.app" target="_blank">
+              <a href="https://ecommerece-website-codefair-noizy.netlify.app" target="_blank" rel="noreferrer">
                 <h5 className="text-gray-900 font-bold text-2xl tracking-tight mb-2 dark:text-white">
                   e-Commerce Website - CodeFair
                 </h5>
@@ -132,7 +132,7 @@ export const Homepage = () => {
 
               </div>
               <a
-                href="https://ecommerece-website-codefair-noizy.netlify.app" target="_blank"
+                href="https://ecommerece-website-codefair-noizy.netlify.app" target="_blank" rel="noreferrer"
                 className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-3 py-2 text-center inline-flex items-center  dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
               >
                 Visit this now
@@ -156,7 +156,7 @@ export const Homepage = () => {
 
         <div className="max-w-2xl mx-20 my-5">
           <div className="bg-white shadow-md border-4 border-gray-200 rounded-lg max-w-lg dark:bg-gray-800 dark:border-gray-700">
-            <a href="https://dhamaka-movies-noizy.netlify.app/" target="_blank">
+            <a href="https://dhamaka-movies-noizy.netlify.app/" target="_blank" rel="noreferrer">
               <img
                 className="rounded-t-lg"
                 src={Img2}
@@ -164,7 +164,7 @@ export const Homepage = () => {
               />
             </a>
             <div className="p-5">
-              <a href="https://dhamaka-movies-noizy.netlify.app/" target="_blank">
+              <a href="https://dhamaka-movies-noizy.netlify.app/" target="_blank" rel="noreferrer">
                 <h5 className="text-gray-900 font-bold text-2xl tracking-tight mb-2 dark:text-white">
                   Dhamaka Movies
                 </h5>
@@ -180,7 +180,7 @@ export const Homepage = () => {
 
               </div>
               <a
-                href="https://dhamaka-movies-noizy.netlify.app/" target="_blank"
+                href="https://dhamaka-movies-noizy.netlify.app/" target="_blank" rel="noreferrer"
                 className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:ring-blue-300 font-medium rounded-lg text-sm px-3 py-2 text-center inline-flex items-center  dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
               >
                 Visit this now
